@@ -1,0 +1,95 @@
+ValuationDate,IndustryName,GrossFinancialDebt,AssetBeta,Debt-to-EquityRatio,SizePremium
+31/12/2023,Real Estate (General/Diversified),515.8,0.45,0.3188,0.0118
+31/12/2023,Publishing & Newspapers,224.4,0.77,0.3248,0.0244
+31/12/2023,Apparel,151.2,0.87,0.4876,0.0637
+31/12/2023,Household Products,178.2,0.75,0.1656,0.0215
+31/12/2023,Business & Consumer Services,86.3,0.9,0.1794,0.0465
+31/12/2023,Utility (General),319.6,0.35,0.8484,0.0637
+31/12/2023,Real Estate (Operations & Services),268.6,0.81,0.4457,0.0465
+31/12/2023,Machinery,289.7,0.91,0.1686,0.0118
+31/12/2023,Insurance (Prop/Cas.),132.1,0.64,0.1938,0.0244
+31/12/2023,Electronics (General),476.5,0.83,0.172,0.0118
+31/12/2023,Banks (Regional),347.2,0.26,1.0195,0.0637
+31/12/2023,Packaging & Container,1579,0.78,0.6126,0.0118
+31/12/2023,Environmental & Waste Services,203.5,0.78,0.2195,0.0215
+31/12/2023,Investments & Asset Management,518.7,0.35,0.4034,0.0215
+31/12/2023,Semiconductor,124.5,1.43,0.0605,0.0118
+31/12/2023,Retail (REITs),971,0.78,0.5884,0.0118
+31/12/2023,Semiconductor Equip,131,1.44,0.0778,0.0118
+31/12/2023,Shipbuilding & Marine,171.4,0.66,0.2977,0.0465
+31/12/2023,Auto Parts,123.9,1.04,0.3844,0.0637
+31/12/2023,Brokerage & Investment Banking,256.6,0.42,2.2606,0.1099
+31/12/2023,Chemical (Specialty),742.7,0.91,0.2682,0.0118
+31/12/2023,Telecom. Services,756.8,0.41,1.2491,0.0465
+31/12/2023,Retail (Grocery and Food),603.5,0.35,0.5584,0.0215
+31/12/2023,Air Transport,1677.6,0.57,1.6215,0.0215
+31/12/2023,Coal & Related Energy,475.4,1.09,0.2254,0.0118
+31/12/2023,Homebuilding,236.1,1.22,0.1642,0.0118
+31/12/2023,Oil/Gas (Production and Exploration),638.2,0.79,0.2328,0.0118
+31/12/2023,Oil/Gas (Integrated),90.2,0.61,0.125,0.0244
+31/12/2023,Transportation (Railroads),10,0.85,0.2681,0.1099
+31/12/2023,Office Equipment & Services,1293.8,0.82,0.5257,0.0118
+31/12/2023,Tobacco,241.7,0.97,0.349,0.0244
+31/12/2023,Oilfield Svcs/Equip.,290.9,0.79,0.3214,0.0215
+31/12/2023,Oil/Gas Distribution,463.3,0.52,0.7022,0.0244
+31/12/2023,Construction Supplies,34.6,0.95,0.247,0.1099
+31/12/2023,Reinsurance,625,0.5,0.4254,0.0118
+31/12/2023,Drugs (Biotechnology),57.5,1,0.1639,0.0637
+31/12/2023,Telecom (Wireless),340.7,0.73,0.6416,0.0465
+31/12/2023,Retail (Automotive),127.1,1.04,0.5751,0.1099
+31/12/2023,Retail (Building Supply),260.2,1.69,0.1992,0.0215
+31/12/2023,Heathcare Information and Technology,2.4,1.14,0.1607,0.1099
+31/12/2023,Precious Metals,141.5,0.78,0.1521,0.0215
+31/12/2023,Computer Services,407.2,0.82,0.2914,0.0118
+31/12/2023,Healthcare Products,72.3,0.97,0.1266,0.0465
+31/12/2023,Furn/Home Furnishings,363.8,0.82,0.4755,0.0244
+31/12/2023,Engineering/Construction,140.9,0.8,0.262,0.0465
+31/12/2023,Financial Svcs. (Non-bank & Insurance),4707.7,0.31,3.5406,0.0215
+31/12/2023,Utility (Water),305.8,0.52,0.5089,0.0465
+31/12/2023,Bank (Money Center),1554.1,0.4,2.1616,0.0244
+31/12/2023,Rubber& Tires,2666.7,0.24,2.3528,0.0215
+31/12/2023,Green & Renewable Energy,226.7,0.54,1.4141,0.1099
+31/12/2023,Advertising,226.5,1.1,0.3376,0.0244
+31/12/2023,Beverage (Soft),101.2,0.68,0.1712,0.0465
+31/12/2023,Drugs (Pharmaceutical),214,0.92,0.1605,0.0215
+31/12/2023,Auto & Truck,846.6,1.24,0.3102,0.0118
+31/12/2023,Food Wholesalers,358.3,0.72,0.4463,0.0215
+31/12/2023,Real Estate (Development),372.2,0.39,0.941,0.0637
+31/12/2023,Insurance (General),8,0.86,0.2593,0.1099
+31/12/2023,Diversified,114.1,1.04,0.1915,0.0465
+31/12/2023,Entertainment,224.6,0.82,0.2875,0.0244
+31/12/2023,Shoe,69,1.21,0.0871,0.0215
+31/12/2023,Building Materials,357.9,1.16,0.1815,0.0118
+31/12/2023,Food Processing,69.7,0.48,0.337,0.1099
+31/12/2023,Transportation,242.8,1.01,0.3358,0.0244
+31/12/2023,Hospitals/Healthcare Facilities,542.6,0.55,0.7974,0.0244
+31/12/2023,Information Services,130.9,0.73,0.3567,0.0637
+31/12/2023,Broadcasting,1114.9,0.46,1.764,0.0465
+31/12/2023,Power,623.5,0.38,0.9292,0.0244
+31/12/2023,Farming/Agriculture,160,0.74,0.453,0.0637
+31/12/2023,Electronics (Consumer & Office),147.7,1.14,0.1832,0.0215
+31/12/2023,R.E.I.T.,527.9,0.65,0.7904,0.0244
+31/12/2023,Chemical (Diversified),511.5,0.74,0.6953,0.0244
+31/12/2023,Telecom. Equipment,34.6,1,0.1141,0.0637
+31/12/2023,Education,185.9,1.07,0.1959,0.0215
+31/12/2023,Cable TV,2279.8,0.72,1.0172,0.0118
+31/12/2023,Insurance (Life),1482.1,0.45,0.9225,0.0118
+31/12/2023,Chemical (Basic),725.4,0.82,0.4568,0.0118
+31/12/2023,Retail (Distributors),18.4,0.89,0.3229,0.1099
+31/12/2023,Steel,35.5,0.98,0.2018,0.1099
+31/12/2023,Metals & Mining,14.2,0.86,0.1582,0.1099
+31/12/2023,Aerospace/Defense,116.5,0.9,0.2546,0.0465
+31/12/2023,Paper/Forest Products,248.2,1.51,0.3737,0.0244
+31/12/2023,Software (System & Application),26.9,1.24,0.062,0.0637
+31/12/2023,Retail (Special Lines),361.4,0.93,0.3615,0.0215
+31/12/2023,Hotel/Gaming,141.5,0.98,0.4867,0.0637
+31/12/2023,Electrical Equipment,10.7,1.07,0.2139,0.1099
+31/12/2023,Beverage (Alcoholic),127.1,0.96,0.2446,0.0465
+31/12/2023,Trucking,70.9,1,0.1995,0.0637
+31/12/2023,Recreation,1063.1,0.81,0.5857,0.0118
+31/12/2023,Restaurant/Dining,109.8,1,0.2573,0.0637
+31/12/2023,Software (Entertainment),24.5,1.08,0.0315,0.0244
+31/12/2023,Computers/Peripherals,7.6,1.08,0.0609,0.1099
+31/12/2023,Retail (General),35.8,1.13,0.1342,0.1099
+31/12/2023,Healthcare Support Services,291,0.86,0.2686,0.0215
+31/12/2023,Software (Internet),13.1,1.48,0.1198,0.1099
